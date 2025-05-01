@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+
+:root {
+  --primary-text-color: #B13881; /* Déclaration correcte */
+  --primary-color: #FBB2CF; /* Déclaration correcte */
+  --secondary-color: #DB6BA6; /* Déclaration correcte */
+  --third-color: #A5517E; /* Déclaration correcte */
+}
+
+
+body {
+  font-family: 'Dosis', sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+  background-image: url("./assets/img/backgroundImage.png");
+}
